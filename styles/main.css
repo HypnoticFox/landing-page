@@ -57,6 +57,6 @@ p {
 
 @media (min-height: 800px) {
   .footer {
-  height: 10%;
+  height: 6rem;
 }
 }
